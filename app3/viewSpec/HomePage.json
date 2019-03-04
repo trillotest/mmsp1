@@ -1,5 +1,4 @@
 {
   "name" : "HomePage",
-  "type" : "html",
-  "cssClass" : "container trillo-item-design-mode"
+  "type" : "html"
 }
