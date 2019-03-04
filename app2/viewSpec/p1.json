@@ -1,0 +1,7 @@
+{
+  "name" : "p1",
+  "type" : "page",
+  "displayName" : "Basic Template",
+  "controller" : "AppC",
+  "cssClass" : "trillo-container trillo-item-design-mode"
+}
